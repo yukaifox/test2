@@ -1,5 +1,5 @@
-OMG HIIIII       [I'm an inline-style link](https://www.google.com)
-
+OMG HIIIII       [Google Link Test](https://www.google.com)
+[]()
 <br>*Test*</br>
   big big
   geese
