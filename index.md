@@ -1,4 +1,5 @@
-OMG HIIIII
+OMG HIIIII       [I'm an inline-style link](https://www.google.com)
+
 <br>*Test*</br>
   big big
   geese
