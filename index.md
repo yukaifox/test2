@@ -1,5 +1,5 @@
 OMG HIIIII       [Google Link Test](https://www.google.com)
-[test](blog/test)
+
 <br>*Test*</br>
   big big
   geese
@@ -9,4 +9,3 @@ dsdssd
 
 sdsdsdsds
 
-[Blog](/posts/2023/10/30/my-first-post.html)
