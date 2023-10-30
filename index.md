@@ -8,4 +8,4 @@ dsdssd
 
 sdsdsdsds
 
-[Blog](_posts/2023/10/30/my-first-post.html)
+[Blog](/posts/2023/10/30/my-first-post.html)
