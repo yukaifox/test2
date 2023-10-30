@@ -1,5 +1,5 @@
 OMG HIIIII       [Google Link Test](https://www.google.com)
-[test](/posts/test)
+[test](_posts/test)
 <br>*Test*</br>
   big big
   geese
